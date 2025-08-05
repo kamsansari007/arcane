@@ -161,11 +161,6 @@ Edit CSS variables in `css/style.css`:
 
 ## 📞 Contact Information
 
-**Arcane Studio**
-- **Address**: Sheikh Zayed Road, Dubai, UAE
-- **Phone**: +971 50 123 4567
-- **Email**: info@arcanestudio.com
-- **Hours**: Sunday - Thursday: 8:00 AM - 6:00 PM
 
 ## 📄 License
 
